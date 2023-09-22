@@ -19,11 +19,13 @@
 ## To be done
 - facial landmark detection experimental code for facial video datasets including BP4D, FERA2011 and UNBC (have no access to raw videos)
 
+- experimental code for using CCRF to perform landmark related tasks
+
 - Head pose experiment code
 
 - testing and building scripts for software
 
-- system level code
+- system level code 
 
 - code for performing downstream tasks such as classification and facial recognition
 
